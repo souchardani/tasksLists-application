@@ -1,0 +1,5 @@
+{
+  "name": "React Task Manager for Spring Boot",
+  "description": "A frontend task management application built with React and TypeScript to interact with a Spring Boot backend. It supports creating, reading, updating, and deleting task lists and their associated tasks. It includes two modes: one using local storage for demonstration, and another for connecting to a live API.",
+  "requestFramePermissions": []
+}
